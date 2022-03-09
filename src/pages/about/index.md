@@ -2,7 +2,7 @@
 templateKey: about-page
 title: Wakanda JavaScript Developer Meetup
 mainImage:
-  image: /img/teemu-paananen-376238-unsplash.jpg
+  image: /img/screenshot-2021-12-31-at-12.59.17-pm-2-.png
   imageAlt: Wakanda JavaScript developer presenting at a meetup.
 gallery:
   - image: /img/neonbrand-509131-unsplash.jpg
